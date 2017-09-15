@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">IBTI Sulteng</string>
+    <string name="business_name">Inkubator Bisnis Teknologi Informasi</string>
+    <string name="business_phone">0852 4126 5975</string>
+    <string name="business_address">Jl. Kartini No.41 Kota Palu Sulawesi Tengah Indoneisa</string>
+    <string name="business_url">www.maleotechnocenter.com</string>
+    <string name="business_email">info@maleotechnocenter.com</string>
+    <string name="business_descriptions">Inkubator Bisnis Teknologi Informasi (IBTI) Maleo Techno Center adalah perwujudan dari semangat gerakan kewirausahaan nasional untuk menumbuh kembangkan wirausaha, dalam hal ini wirausaha berbasis teknologi (Technopreneur)</string>
+    <string name="day_1">Senin</string>
+    <string name="day_2">Selasa</string>
+    <string name="day_3">Rabu</string>
+    <string name="day_4">Kamis</string>
+    <string name="day_5">Jumat</string>
+    <string name="day_6">Sabtu</string>
+    <string name="day_7">Minggu</string>
+    <string name="business_url_label">Website :</string>
+    <string name="business_email_label">Email :</string>
+    <string name="business_phone_label">Telepon :</string>
+</resources>
+
+
